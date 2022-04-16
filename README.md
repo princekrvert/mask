@@ -8,5 +8,18 @@
  ```
  credit : this tools is inspired from jaykali maskphish 
 ```
- ## Insatallation 
+ ## Termux Insatallation 
+ *`apt update && apt upgrade`
+
+*`pkg install nodejs-lts`
+
+*`git clone https://github.com/princekrvert/mask.git`
+
+*`npm install `
+
+*`cd mask`
+
+*`chmod +x app.js`
+
+*`node app.js --url `
  
