@@ -1,0 +1,30 @@
+{
+  "name": "mask",
+  "version": "1.0.0",
+  "description": "url masking tool ",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/princekrvert/mask.git"
+  },
+  "keywords": [
+    "mask",
+    "mask-url",
+    "urlmasking",
+    "nodejs",
+    "princekrvert"
+  ],
+  "author": "Prince Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/princekrvert/mask/issues"
+  },
+  "homepage": "https://github.com/princekrvert/mask#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
