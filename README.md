@@ -5,7 +5,8 @@
 <p>
 <a href="https://img.shields.io/badge/PRINCE-KUMAR-green" ><img  src="https://img.shields.io/badge/PRINCE-KUMAR-green"></a>  <a href="#" ><img  src="https://img.shields.io/badge/Mask-red"></a>  <a href="#"><img src="https://img.shields.io/badge/MADE%20IN%20-NODE-yellow"></a></p>
  
- '''
+ ```
  credit : this tools is inspired from jaykali maskphish 
- '''
+```
  ## Insatallation 
+ 
