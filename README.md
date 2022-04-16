@@ -8,10 +8,16 @@
  ```
  credit : this tools is inspired from jaykali maskphish 
 ```
+## Tasted on 
+1. Kali linux 
+2. ubantu 
+3. termux 
+4. windows
+5. garuda linux 
  ## Termux Insatallation 
  *`apt update && apt upgrade`
 
-*`pkg install nodejs-lts`
+*`pkg install nodejs-lts` 
 
 *`git clone https://github.com/princekrvert/mask.git`
 
